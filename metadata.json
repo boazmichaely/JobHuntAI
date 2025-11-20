@@ -1,0 +1,5 @@
+{
+  "name": "JobHuntAI",
+  "description": "An intelligent job application tracker that parses natural text (e.g., LinkedIn messages) to automatically log activities, manage contacts, and maintain a DUA-compliant audit trail.",
+  "requestFramePermissions": []
+}
